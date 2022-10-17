@@ -1,5 +1,7 @@
 # ✨ YouTube Navigation Menu ✨ Platzi Live Class✨
 
+👉🏼 [Aquí puedes encontrar la presentación completa](https://www.canva.com/design/DAFOeeCSMgA/ln8WQ3w-KcyoaS5GkVuAEQ/view?utm_content=DAFOeeCSMgA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ![1](https://user-images.githubusercontent.com/25943655/196078529-4bf6ddee-289a-4064-8dc0-784868758c0f.png)
 
 👉🏼 [Aquí puedes ver el quiz completo + respuesta correcta + explicación](https://platzi.com/blog/quiz-html-semantico-css-youtube/)
